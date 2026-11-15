@@ -1,0 +1,10 @@
+baseURL = "https://elhamrajairad.github.io/"
+languageCode = "fa"
+defaultContentLanguage = "fa"
+title = "عنوان وبلاگ"
+theme = "PaperMod"
+
+[languages.fa]
+languageName = "فارسی"
+languageDirection = "rtl"
+weight = 1
