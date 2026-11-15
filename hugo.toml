@@ -1,7 +1,7 @@
-baseURL = "https://elhamrajairad.github.io/"
+baseURL = "https://elhamrajairad.github.io/seo-ino/"
 languageCode = "fa"
 defaultContentLanguage = "fa"
-title = "عنوان وبلاگ"
+title = "SEOINO"
 theme = "PaperMod"
 
 [languages.fa]
