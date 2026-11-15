@@ -5,6 +5,6 @@ title = "SEOINO"
 theme = "PaperMod"
 
 [languages.fa]
-languageName = "فارسی"
+languageName = "Persian"
 languageDirection = "rtl"
 weight = 1
