@@ -8,3 +8,6 @@ theme = "PaperMod"
 languageName = "Persian"
 languageDirection = "rtl"
 weight = 1
+
+[params.analytics.google]
+SiteVerificationTag = "5qixKXw7qzYFC-USU2c_-QfOFZU7AZSacM64IM9p47o"
