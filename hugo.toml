@@ -9,5 +9,12 @@ languageName = "Persian"
 languageDirection = "rtl"
 weight = 1
 
+[params]
+description = "وبلاگ آموزش سئو: مقاله‌ها و پادکست‌های مرتبط با سئو، همراه با تمرین و تجربه‌های عملی من در یادگیری سئوی محتوا و تکنیکال."
+
+[params.assets]
+favicon = "/SEOIno-faivicon.svg"
+apple_touch_icon = "/apple-touch-icon.png"
+
 [params.analytics.google]
 SiteVerificationTag = "5qixKXw7qzYFC-USU2c_-QfOFZU7AZSacM64IM9p47o"
