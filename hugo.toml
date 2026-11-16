@@ -29,3 +29,9 @@ identifier = "about"
 name = "درباره ما"
 url = "/about/"
 weight = 20
+
+[[menu.main]]
+identifier = "contact"
+name = "تماس با ما"
+url = "/contact/"
+weight = 20
