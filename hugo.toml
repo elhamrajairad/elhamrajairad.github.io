@@ -1,7 +1,7 @@
 baseURL = "https://elhamrajairad.github.io/"
 languageCode = "fa"
 defaultContentLanguage = "fa"
-title = "SEOINO"
+title = "SEOINO | مقاله و پادکست‌های سئو"
 theme = "PaperMod"
 
 [languages.fa]
