@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 16 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>تماس با من</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>آشنایی با SEOINO؛ وبلاگی برای یادگیری و تمرین سئو، با مقاله‌ها و تجربه‌های عملی.</description>
+    </item>
+    <item>
       <title>درباره من</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
