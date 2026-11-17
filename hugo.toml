@@ -18,20 +18,3 @@ apple_touch_icon = "/apple-touch-icon.png"
 
 [params.analytics.google]
 SiteVerificationTag = "5qixKXw7qzYFC-USU2c_-QfOFZU7AZSacM64IM9p47o"
-[[menu.main]]
-identifier = "posts"
-name = "مقالات"
-url = "/posts/"
-weight = 10
-
-[[menu.main]]
-identifier = "about"
-name = "درباره ما"
-url = "/about/"
-weight = 20
-
-[[menu.main]]
-identifier = "contact"
-name = "تماس با ما"
-url = "/contact/"
-weight = 20
